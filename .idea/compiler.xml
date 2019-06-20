@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-api" />
+        <module name="springcloud-eureka" />
+        <module name="springcloud-eureka8002" />
+        <module name="springcloud-eureka8003" />
+        <module name="springcloud-order" />
+        <module name="springcloud-order-feign" />
+        <module name="springcloud-user" />
+        <module name="springcloud-user8011" />
+        <module name="springcloud-user8012" />
+        <module name="sptingcloud-hystrix-dashboard" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-api" target="1.8" />
+      <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-eureka8002" target="1.8" />
+      <module name="springcloud-eureka8003" target="1.8" />
+      <module name="springcloud-order" target="1.8" />
+      <module name="springcloud-order-feign" target="1.8" />
+      <module name="springcloud-user" target="1.8" />
+      <module name="springcloud-user8011" target="1.8" />
+      <module name="springcloud-user8012" target="1.8" />
+      <module name="sptingcloud-hystrix-dashboard" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springcloud-eureka" options="-parameters" />
+      <module name="springcloud-eureka8002" options="-parameters" />
+      <module name="springcloud-eureka8003" options="-parameters" />
+      <module name="springcloud-order" options="-parameters" />
+      <module name="springcloud-order-feign" options="-parameters" />
+      <module name="springcloud-user" options="-parameters" />
+      <module name="springcloud-user8011" options="-parameters" />
+      <module name="springcloud-user8012" options="-parameters" />
+      <module name="sptingcloud-hystrix-dashboard" options="-parameters" />
+    </option>
+  </component>
+</project>

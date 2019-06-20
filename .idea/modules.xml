@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/springcloud-eureka/springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka8002/springcloud-eureka8002.iml" filepath="$PROJECT_DIR$/springcloud-eureka8002/springcloud-eureka8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka8003/springcloud-eureka8003.iml" filepath="$PROJECT_DIR$/springcloud-eureka8003/springcloud-eureka8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order/springcloud-order.iml" filepath="$PROJECT_DIR$/springcloud-order/springcloud-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-order-feign/springcloud-order-feign.iml" filepath="$PROJECT_DIR$/springcloud-order-feign/springcloud-order-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-user/springcloud-user.iml" filepath="$PROJECT_DIR$/springcloud-user/springcloud-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-user8011/springcloud-user8011.iml" filepath="$PROJECT_DIR$/springcloud-user8011/springcloud-user8011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-user8012/springcloud-user8012.iml" filepath="$PROJECT_DIR$/springcloud-user8012/springcloud-user8012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sptingcloud-hystrix-dashboard/sptingcloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/sptingcloud-hystrix-dashboard/sptingcloud-hystrix-dashboard.iml" />
+    </modules>
+  </component>
+</project>

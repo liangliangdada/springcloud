@@ -1,0 +1,15 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: springcloud-eureka
+
+eureka:
+  instance:
+    hostname: eureka8001.com #服务实例名称  host文件映射localhost==>127.0.0.1
+  client:
+    fetch-registry: true #是否从注册中心获取注册信息 集群环境设置为true 互相注册发现
+    register-with-eureka: true #是否将自己注册到注册中心 集群环境设置为true
+    service-url:
+      defaultZone: http://eureka8002.com:8002/eureka/,http://eureka8003.com:8003/eureka/

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/springcloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-order-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-user8011" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-user8012" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sptingcloud-hystrix-dashboard" charset="UTF-8" />
+  </component>
+</project>

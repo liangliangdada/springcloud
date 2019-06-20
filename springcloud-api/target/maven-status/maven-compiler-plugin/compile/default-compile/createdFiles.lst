@@ -1,0 +1,5 @@
+com\liang\App.class
+com\liang\service\UserApiServiceFallbackFactory.class
+com\liang\service\UserApiService.class
+com\liang\entity\User.class
+com\liang\service\UserApiServiceFallbackFactory$1.class

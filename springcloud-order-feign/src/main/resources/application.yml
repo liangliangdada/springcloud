@@ -1,0 +1,16 @@
+server:
+  port: 9002
+  servlet:
+    context-path: /springcloud-order-feign
+
+feign:
+  hystrix:
+    enabled: true #开启服务熔断
+
+eureka:
+  client:
+    fetch-registry: true #从注册中心获取注册信息
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://eureka8001.com:8001/eureka,http://eureka8002.com:8002/eureka,http://eureka8003.com:8003/eureka
+
